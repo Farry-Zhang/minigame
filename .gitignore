@@ -1,0 +1,60 @@
+# =============== #
+# Unity .gitignore
+# =============== #
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# Unity 生成的文件夹
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# 用户设置
+UserSettings/
+
+# 忽略自动生成的 VS/VSCode 配置
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 忽略 Unity Cache
+/[Aa]ssets/[Pp]lugins/Editor/JetBrains*
+/[Bb]uildReports/
+/[Bb]uildArtifacts/
+
+# 忽略打包文件
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+
+# Rider IDE
+.idea/
+
+# Crash/Profiling Logs
+sysinfo.txt
+
+# 忽略 Git LFS 缓存
+*.lfs
+
