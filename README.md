@@ -1,7 +1,9 @@
 # Overview
 Hello guys,This is a little game I created for my bro. Its about a little boy jumping through some obstacles.
 
-I use Unity hub and Visual Studio. It's an amazing creating experience. But because of the shortage of my computer storage, I have to delete the unity hub. So I upload my codes here for memories.
+I used Unity hub and Visual Studio with C#. Every time the player press the space botton, the figure can jump higher. If u do nothing, the figure will drop with a certain velocity. And Your goal is to control the figure to hide from the obstacles(pipes in my game). And I also make a points system. For obstacles you hided, u can get one point. The higher scores, the better you! 
+
+It's an amazing creating experience. But because of the shortage of my computer storage, I have to delete the unity hub. So I upload my codes here for memories.
 
 Its some screenshots of the game.You can see my handsome bro hahahahaha:)
 
